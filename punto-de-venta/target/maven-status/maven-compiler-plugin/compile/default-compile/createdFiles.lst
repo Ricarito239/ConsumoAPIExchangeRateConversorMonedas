@@ -1,7 +1,0 @@
-com/pos/database/DatabaseConnection.class
-com/pos/service/TiendaService.class
-com/pos/model/Producto.class
-com/pos/main/Main.class
-com/pos/model/Venta.class
-com/pos/dao/VentaDAO.class
-com/pos/dao/ProductoDAO.class
